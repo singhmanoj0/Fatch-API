@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fatch-API/static/css/main.ec4b566e.css",
+    "main.js": "/Fatch-API/static/js/main.e16f2d49.js",
+    "index.html": "/Fatch-API/index.html",
+    "main.ec4b566e.css.map": "/Fatch-API/static/css/main.ec4b566e.css.map",
+    "main.e16f2d49.js.map": "/Fatch-API/static/js/main.e16f2d49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec4b566e.css",
+    "static/js/main.e16f2d49.js"
+  ]
+}
